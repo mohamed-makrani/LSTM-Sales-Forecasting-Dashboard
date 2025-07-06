@@ -22,7 +22,6 @@ This Streamlit app uses a trained LSTM model to predict sales based on store, it
 
 ## 🖼️ Screenshots
 
-## 🖼️ Screenshots
 
 ### 🏠 Home Page  
 ![Home Page](images/home_page.png)
